@@ -1,8 +1,6 @@
-/* Estos serían los comentarios*/
+/* Estos serían los comentarios
 ______________________________________________________________
-/*
-
-Tipos de Datos
+/* Tipos de Datos
 
 Undefined= No existe una valor asignado
 Null= No existe
@@ -11,16 +9,9 @@ String= Cadenas de caracteres
 Symbol=
 Number= Numero
 Object= Objeto
-*/
 ______________________________________________________________
-/*
-Variables
-
+/* Variables
 
 */
 var miVariable = "Primera variable";
 console.log(miVariable);
-______________________________________________________________
-/*
-
-*/
