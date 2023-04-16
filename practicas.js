@@ -2,7 +2,7 @@
 ______________________________________________________________
 Tipos de Datos
 
-Undefined= No existe una valor asignado
+Undefined= No existe un valor asignado
 Null= No existe
 Boolean= Verdadero y falso
 String= Cadenas de caracteres
